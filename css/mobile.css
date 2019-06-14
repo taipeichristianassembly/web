@@ -1,0 +1,275 @@
+/* Website Template by freewebsitetemplates.com */
+body {
+	min-width: 0;
+}
+#header {
+	padding: 20px 0;
+	position: relative;
+	width: 100%;
+}
+#header a.logo {
+	width: 80%;
+}
+#header a.logo h1 {
+	font-size: 16px;
+}
+#header ul {
+	padding-top: 15px;
+}
+#header ul li {
+	padding: 0 12px;
+}
+#header ul li a {
+	font-size: 12px;
+}
+#header ul .new:before {
+  width: 14px;
+  height: 12px;
+  margin-left: -16px;
+}
+#body {
+	width: 100%;
+}
+#body h1 {
+	display: block;
+	font-size: 20px;
+	margin: 0 auto;
+	width: 90%;
+}
+#body h1 span {
+	display: block;
+	padding: 3%;
+	width: 94%;
+}
+#body > div {
+	padding: 0 5%;
+	width: 90%;
+}
+#body > div img {
+	margin: 24px 0 30px;
+	width: 98%
+}
+#body > div .article {
+	padding: 0;
+	width: 100%;
+}
+#body > div .article h2, #body > div .article h4 {
+	font-size: 18px;
+	font-weight: bold;
+}
+#body .content {
+	margin: 30px 0 0;
+	width: 90%;
+}
+#body .content p {
+	font-size: 14px;
+}
+#body #featured {
+	overflow: hidden;
+	margin: 0 0 20px
+}
+#body #featured img {
+	min-width: 600px;
+}
+#body #featured div {
+	margin: 0;
+	left: 5%;
+	padding: 0 2%;
+	position: absolute;
+	top: 20px;
+	text-align: left;
+	width: 96%;
+}
+#body #featured div h2 {
+	font-size: 14px;
+	font-weight: normal;
+	margin: 50px 0 10px;
+	padding: 8px 5px;
+}
+#body #featured div span {
+	display: block;
+	font-size: 14px;
+	padding: 10px;
+}
+#body #featured .note {
+	font-size: 12px;
+}
+#body #featured div a {
+	font-size: 14px;
+	margin: 5px 0 0;
+	padding: 10px;
+}
+#body > ul {
+	overflow: visible;
+	padding: 0 5%;
+	width: 90%;
+}
+#body ul.gallery {
+	padding: 5% 0;
+	overflow: hidden;
+	width: 100%;
+}
+#body > ul li {
+	float: none;
+	margin: 0;
+	width: 100%;
+}
+#body ul.gallery li {
+	float: left;
+	margin: 0 0 5% 5%;
+	width: 42%;
+}
+#body > ul li a img {
+	width: 98%;
+}
+#body > ul li a span {
+	padding: 15px 0;
+}
+#body div ul {
+	margin: 0;
+	padding: 20px 0;
+	width: 100%;
+}
+#body table {
+	margin: 20px 0 0 0;
+	width: auto;
+}
+#body .table-schedule th,
+#body .table-schedule td {
+	font-size: inherit;
+	line-height: 20px;
+}
+.message-title p {
+	font-size: 14px;
+	margin-left: 25px;
+	text-align: left;
+}
+#body .message-title  .tab-title {
+	padding-left: 35px;
+	width: 20%;
+}
+#body .message-title  .tab-download {
+	margin: 0;
+	padding-left: 30px;
+}
+#body div ul.table-messages li {
+	padding: 10px 0;
+}
+#body div ul li .figure {
+	border: 0;
+	display: block;
+	float: none;
+	margin: 0 0 20px;
+	width: 100%;
+}
+#body div ul li .figure img {
+	width: 100%;
+}
+#body div ul li div {
+	float: none;
+	padding: 0;
+	width: 100%;
+}
+#body .table-messages p {
+	padding: 0;
+}
+#body .table-messages .message-title p {
+	font-size: 14px;
+	padding: 0;
+}
+#body .table-schedule div, #body .table-schedule p {
+	margin: 0;
+	padding: 0;
+}
+#body .tab-hours, #body .tab-title, #body .tab-content,
+#body .tab-download, #body .tab-audio {
+	font-size: 12px;
+	float: left;
+	letter-spacing: 0;
+}
+#body .tab-download {
+	margin-top: -5px;
+	width: 20%;
+}
+#body .tab-download a {
+	font-size: 12px;
+	line-height: 2.5;
+}
+#body .tab-audio {
+	margin-top: 5px;
+}
+#body .tab-hours,
+#body .tab-content {
+	width: 20%;
+}
+#body .pure-pdf .tab-content {
+	margin-left: 20%;
+}
+#body .pure-pdf p {
+	line-height: 2;
+}
+#body .pure-pdf .tab-download {
+	margin-top: -3px;
+}
+#body .tab-title {
+	width: 40%;
+}
+#body div ul li div a.more:hover {
+	height: 14px;
+	line-height: 14px;
+}
+#body .wrapper {
+	margin-top: 20px;
+	height: auto;
+	width: auto;
+}
+#body .contact {
+	clear: both;
+	margin: 10px;
+	width: auto;
+}
+#body .map {
+	float: none;
+}
+#body .map iframe {
+	position: static;
+	height: 300px;
+	width: 300px;
+}
+.yt-channel {
+	height: 60px;
+	margin: 0;
+}
+.yt-channel a {
+	float: left;
+	font-size: 28px;
+	line-height: normal;
+}
+.yt-icon {
+	background-size: 50%;
+	height: 80px;
+	width: 80px;
+}
+iframe {
+	width: 100%;
+}
+#body .contact p {
+	font-size: 14px;
+}
+#footer {
+	padding: 15px 0;
+}
+#footer div {
+	overflow: visible;
+	width: 100%;
+}
+#footer div p {
+	float: none;
+	margin: 0;
+	text-align: center;
+}
+#footer div ul {
+	float: none;
+	margin: 0 auto;
+	width: 256px;
+}
